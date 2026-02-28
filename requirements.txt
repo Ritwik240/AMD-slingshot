@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python
+numpy
+albumentations
+matplotlib
+tqdm
+scikit-learn
